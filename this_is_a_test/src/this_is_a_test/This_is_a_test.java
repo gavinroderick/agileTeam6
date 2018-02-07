@@ -19,5 +19,10 @@ public class This_is_a_test {
         //This is from scott at the end
         //THANK FUCK THIS IS FINALLY WORKING
     }
+    //example to use test
+    public static int add(int a, int b){
+        return a+b;
+        
+    }
     
 }
